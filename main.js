@@ -1,3 +1,3 @@
 let name = "Shuja"
 
-console.log("Hello ", name);
+console.log(`Hello ${name}`);
